@@ -30,6 +30,48 @@ I perform **EDA, preprocessing, feature engineering, class balancing, model trai
 
 ## 📁 Folder Structure
 
+credit-risk-modeling/
+│
+├── app.py                     # Streamlit application
+├── model_training.ipynb       # Model training and evaluation
+├── eda_notebook.ipynb         # Exploratory Data Analysis
+├── data/
+│   └── cs-training.csv        # Raw dataset
+├── requirements.txt           # Python dependencies
+└── README.md                  # Project documentation
+
+
+---
+
+## 🚀 How to Run the App
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/credit-risk-modeling.git
+cd credit-risk-modeling
+```
+
+### 2. Install dependencies
+```
+pip install -r requirements.txt
+```
+### 3. Run the Streamlit app
+```
+streamlit run app.py
+```
+
+## 🙏 Acknowledgments
+Give Me Some Credit - Kaggle dataset
+
+SHAP for interpretability
+
+## 📬 Contact
+Author: Ruairí McConville
+📧 mcconvilleruairi@gmail.com
+🔗 LinkedIn • GitHub
+
+
 
 
 ![image](https://github.com/user-attachments/assets/623dd394-f7de-45b2-ba0f-593d5ed8f4ab)
@@ -39,7 +81,6 @@ I perform **EDA, preprocessing, feature engineering, class balancing, model trai
 
 
 ![image](https://github.com/user-attachments/assets/4fdf9a31-f28e-48a3-9cb9-2dcb5188280d)
-
 
 
 ![image](https://github.com/user-attachments/assets/c2ec2d2c-2010-4215-8c8a-85b50c056d52)

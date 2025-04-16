@@ -1,5 +1,35 @@
-# Credit-Risk-Modelling
-An EDA and modelling exercise using the Give Me Some Credit Dataset
+# 🧮 Credit Risk Modeling: Give Me Some Credit Dataset
+
+This repository contains a complete end-to-end machine learning pipeline to **predict the risk of serious credit delinquency within the next two years**, based on the [Give Me Some Credit dataset](https://www.kaggle.com/c/GiveMeSomeCredit) from Kaggle.
+
+We perform **EDA, preprocessing, feature engineering, class balancing, model training, hyperparameter tuning, SHAP explainability**, and build a deployable **Streamlit application** for real-time prediction.
+
+---
+
+## 📌 Key Highlights
+
+- 📊 **Exploratory Data Analysis**: Univariate, bivariate, and correlation heatmaps
+- 🧹 **Data Preprocessing**: Imputation, scaling, SMOTE for class imbalance
+- 🤖 **Modeling**: Random Forest classifier with GridSearchCV tuning
+- 📈 **Evaluation**: Confusion matrix, classification report, ROC AUC score
+- 🔍 **Explainability**: Model interpretability via SHAP values
+- 🖥 **Deployment**: Interactive Streamlit app with prediction and SHAP visualization
+
+---
+
+## 🔧 Technologies Used
+
+- Python 3.9+
+- Scikit-learn
+- Imbalanced-learn (SMOTE)
+- SHAP
+- Streamlit
+- Pandas, NumPy, Seaborn, Matplotlib
+
+---
+
+## 📁 Folder Structure
+
 
 
 ![image](https://github.com/user-attachments/assets/623dd394-f7de-45b2-ba0f-593d5ed8f4ab)

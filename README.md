@@ -2,7 +2,7 @@
 
 This repository contains a complete end-to-end machine learning pipeline to **predict the risk of serious credit delinquency within the next two years**, based on the [Give Me Some Credit dataset](https://www.kaggle.com/c/GiveMeSomeCredit) from Kaggle.
 
-We perform **EDA, preprocessing, feature engineering, class balancing, model training, hyperparameter tuning, SHAP explainability**, and build a deployable **Streamlit application** for real-time prediction.
+I perform **EDA, preprocessing, feature engineering, class balancing, model training, hyperparameter tuning, SHAP explainability**, and build a deployable **Streamlit application** for real-time prediction.
 
 ---
 
